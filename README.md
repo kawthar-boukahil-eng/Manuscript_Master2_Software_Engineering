@@ -37,4 +37,10 @@ This manuscript presents a comprehensive solution to improve road safety by deve
 
 ---
 
-**Note:** The full manuscript, prototypes, and detailed architecture are stored privately. Please contact me for access.
+**Note**: The repository serves as a preview of the paper, showcasing the structure and key findings. Full access to the article is restricted. For more information or to request the complete document, please contact me.
+
+## Why LaTeX and Overleaf?
+This project was created using LaTeX on Overleaf, a cloud-based LaTeX editor widely used in academic and research settings. LaTeX ensures precise typesetting and formatting, which is essential for complex technical documents, while Overleaf facilitates seamless collaboration and efficient document management.
+
+## Contact
+For full access or additional details, feel free to reach out at [kawthar.boukahil@univ-constantine2.dz].
